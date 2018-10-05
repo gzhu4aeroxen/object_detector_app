@@ -17,6 +17,8 @@ pytest -vs utils/
 
 ## Requirements
 - [Anaconda / Python 3.5](https://www.continuum.io/downloads)
+- [nginx-1.7.5](http://nginx.org/en/download.html)
+- [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
 - [TensorFlow 1.2](https://www.tensorflow.org/)
 - [OpenCV 3.0](http://opencv.org/)
 
